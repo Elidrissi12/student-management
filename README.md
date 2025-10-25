@@ -196,7 +196,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 👨‍💻 Auteur
 
 **ABDO EL IDRISSI**
-- GitHub: [@votre-username](https://github.com/votre-username)
+- GitHub: [abdo el idrissi ](https://github.com/Elidrissi12)
 
 ## 🙏 Remerciements
 
