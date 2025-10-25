@@ -1,0 +1,6 @@
+@echo off
+echo Stopping Spring Boot application...
+taskkill /f /im java.exe 2>nul
+echo Starting Spring Boot application...
+cd "TP6-SpringBoot-Swagger"
+call mvnw spring-boot:run
