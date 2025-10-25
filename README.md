@@ -1,3 +1,10 @@
+
+<img width="1910" height="987" alt="image" src="https://github.com/user-attachments/assets/d902f1aa-8914-495d-b590-418bdc069b39" />
+<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/8d4d07da-fa66-4187-a026-14a96ea7ff97" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b6cd678f-0c13-4ef5-a9c9-7085b16c52e0" />
+
+
 # 🎓 Student Management System
 
 [![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)](https://openjdk.org/)
